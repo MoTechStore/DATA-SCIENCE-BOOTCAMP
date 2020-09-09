@@ -1,5 +1,5 @@
 # DATA-SCIENCE-BOOTCAMP
-This repository contain the following tasks for CIVE, UDOM Data Science BootCamp
+This repository contain the following tasks for CIVE, UDOM Data Science BootCamp 2019/20
 
 1. Loading of dataset
 2. Feature extraction
